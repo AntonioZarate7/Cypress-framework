@@ -33,7 +33,7 @@ Escenario: Carrito de compras
   Entonces doy click en el boton "menu" de la pantalla "Productos"
   Y doy click en el boton "cerrar sesion" de la pantalla "Productos"
 
-  ernesto.ortega@spaymentservices.com
+  #ernesto.ortega@spaymentservices.com
  
 
   
